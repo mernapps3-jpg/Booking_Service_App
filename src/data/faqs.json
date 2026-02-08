@@ -1,0 +1,44 @@
+[
+  {
+    "id": "faq-01",
+    "tag": "pricing",
+    "question": "How is pricing calculated?",
+    "answer":
+      "Pricing is based on service length, location, and add-ons. The exact total is shown before you confirm a booking."
+  },
+  {
+    "id": "faq-02",
+    "tag": "booking",
+    "question": "How do I book a service?",
+    "answer":
+      "Select a service, tap Book Now, choose a date and time, and submit your details. You will receive an instant confirmation."
+  },
+  {
+    "id": "faq-03",
+    "tag": "cancellation",
+    "question": "Can I cancel or reschedule?",
+    "answer":
+      "Yes. You can cancel or reschedule up to 24 hours before the appointment time from the My Bookings page."
+  },
+  {
+    "id": "faq-04",
+    "tag": "availability",
+    "question": "How do I check availability?",
+    "answer":
+      "Availability is listed on each service detail page. If you need a custom time, send a request in the booking form."
+  },
+  {
+    "id": "faq-05",
+    "tag": "payment",
+    "question": "What payment methods are accepted?",
+    "answer":
+      "We currently support major credit cards and digital wallets. Payment is collected after you confirm."
+  },
+  {
+    "id": "faq-06",
+    "tag": "support",
+    "question": "How do I contact support?",
+    "answer":
+      "Use the floating assistant to get help or send us a message. We respond within 24 hours."
+  }
+]

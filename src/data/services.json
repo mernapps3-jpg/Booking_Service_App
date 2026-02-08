@@ -1,0 +1,348 @@
+[
+  {
+    "id": "svc-001",
+    "title": "Deep Clean Home Reset",
+    "category": "Home Services",
+    "price": 140,
+    "rating": 4.8,
+    "reviews": 132,
+    "duration": "3 hrs",
+    "location": "Downtown",
+    "availability": "Mon-Sat",
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": [
+      "Eco-friendly products",
+      "Kitchen + bathroom focus",
+      "Checklist before we leave"
+    ],
+    "includes": ["Supplies included", "2 cleaners", "Satisfaction guarantee"],
+    "description":
+      "Reset your space with a top-to-bottom deep clean. Ideal for move-ins, post-event refreshes, or seasonal resets."
+  },
+  {
+    "id": "svc-002",
+    "title": "Wellness Massage 60",
+    "category": "Wellness",
+    "price": 95,
+    "rating": 4.9,
+    "reviews": 88,
+    "duration": "60 mins",
+    "location": "Midtown Studio",
+    "availability": "Tue-Sun",
+    "images": [
+      "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Custom pressure", "Aromatherapy optional", "Quiet suite"],
+    "includes": ["Towels", "Water + tea", "Post-session notes"],
+    "description":
+      "A full-body massage designed to melt tension and restore balance. Choose relaxation or recovery focus."
+  },
+  {
+    "id": "svc-003",
+    "title": "Beginner Yoga Flow",
+    "category": "Wellness",
+    "price": 45,
+    "rating": 4.6,
+    "reviews": 41,
+    "duration": "45 mins",
+    "location": "Riverside Loft",
+    "availability": "Daily",
+    "images": [
+      "https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Small class sizes", "Breathwork basics", "Stretch guide"],
+    "includes": ["Yoga mat", "Block + strap", "Take-home routine"],
+    "description":
+      "A gentle class that builds confidence and flexibility. Perfect for first-timers or those returning to movement."
+  },
+  {
+    "id": "svc-004",
+    "title": "Personal Training Sprint",
+    "category": "Wellness",
+    "price": 120,
+    "rating": 4.7,
+    "reviews": 57,
+    "duration": "75 mins",
+    "location": "North Fit Lab",
+    "availability": "Mon-Fri",
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1526401281623-3c70c1e99a2b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Goal mapping", "Strength + cardio", "Form coaching"],
+    "includes": ["Body scan", "Plan recap", "Recovery tips"],
+    "description":
+      "A high-impact training session built around your goals. We focus on form, confidence, and sustainable wins."
+  },
+  {
+    "id": "svc-005",
+    "title": "Family Photoshoot",
+    "category": "Events",
+    "price": 210,
+    "rating": 4.8,
+    "reviews": 64,
+    "duration": "90 mins",
+    "location": "City Park",
+    "availability": "Weekends",
+    "images": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Golden hour", "Kid-friendly posing", "Fast turnaround"],
+    "includes": ["20 edited photos", "Online gallery", "Print release"],
+    "description":
+      "Capture candid moments and polished portraits in a relaxed outdoor session."
+  },
+  {
+    "id": "svc-006",
+    "title": "Event Styling Consultation",
+    "category": "Events",
+    "price": 180,
+    "rating": 4.5,
+    "reviews": 39,
+    "duration": "60 mins",
+    "location": "Virtual",
+    "availability": "Mon-Thu",
+    "images": [
+      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Moodboard", "Vendor shortlist", "Budget guidance"],
+    "includes": ["Style guide", "Color palette", "Follow-up notes"],
+    "description":
+      "Get a cohesive event vision with decor recommendations and supplier guidance."
+  },
+  {
+    "id": "svc-007",
+    "title": "Guitar Lessons - Starter",
+    "category": "Lessons",
+    "price": 60,
+    "rating": 4.6,
+    "reviews": 52,
+    "duration": "50 mins",
+    "location": "East Studio",
+    "availability": "Tue-Sat",
+    "images": [
+      "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Chords + rhythm", "Song-based learning", "Take-home practice"],
+    "includes": ["Lesson notes", "Practice plan", "Metronome tips"],
+    "description":
+      "Build confidence with core chords, strumming patterns, and your first songs."
+  },
+  {
+    "id": "svc-008",
+    "title": "Spanish Tutoring Session",
+    "category": "Lessons",
+    "price": 55,
+    "rating": 4.7,
+    "reviews": 76,
+    "duration": "60 mins",
+    "location": "Virtual",
+    "availability": "Daily",
+    "images": [
+      "https://images.unsplash.com/photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Conversation focus", "Custom homework", "Progress tracking"],
+    "includes": ["Vocabulary deck", "Weekly goals", "Recorded recap"],
+    "description":
+      "Learn practical Spanish with a supportive, conversation-first approach."
+  },
+  {
+    "id": "svc-009",
+    "title": "Laptop Tune-Up",
+    "category": "Tech Support",
+    "price": 75,
+    "rating": 4.4,
+    "reviews": 48,
+    "duration": "45 mins",
+    "location": "Tech Hub",
+    "availability": "Mon-Sat",
+    "images": [
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Speed optimization", "Backup setup", "Security check"],
+    "includes": ["Performance report", "Clean-up checklist", "Tips sheet"],
+    "description":
+      "Clean up slowdowns, improve startup, and keep your laptop running smoothly."
+  },
+  {
+    "id": "svc-010",
+    "title": "Smart Home Setup",
+    "category": "Tech Support",
+    "price": 160,
+    "rating": 4.8,
+    "reviews": 33,
+    "duration": "90 mins",
+    "location": "On-site",
+    "availability": "Wed-Sun",
+    "images": [
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Device pairing", "Automation routines", "Voice control"],
+    "includes": ["Setup guide", "Network check", "Follow-up call"],
+    "description":
+      "Connect your devices, build automations, and learn the best practices for smart living."
+  },
+  {
+    "id": "svc-011",
+    "title": "Hair & Makeup Studio",
+    "category": "Beauty",
+    "price": 130,
+    "rating": 4.9,
+    "reviews": 95,
+    "duration": "75 mins",
+    "location": "City Studio",
+    "availability": "Thu-Sun",
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Camera-ready look", "Skin prep", "Lash upgrade"],
+    "includes": ["Touch-up kit", "Style consult", "Lookbook"],
+    "description":
+      "Look polished and confident with professional hair styling and makeup artistry."
+  },
+  {
+    "id": "svc-012",
+    "title": "Wedding Planning Kickoff",
+    "category": "Events",
+    "price": 260,
+    "rating": 4.7,
+    "reviews": 27,
+    "duration": "90 mins",
+    "location": "Virtual",
+    "availability": "Mon-Fri",
+    "images": [
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523978591478-c753949ff840?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Timeline planning", "Vendor shortlist", "Budget priorities"],
+    "includes": ["Planning workbook", "Checklist", "Follow-up session"],
+    "description":
+      "Start with clarity and direction. We map your timeline, budget, and vendor priorities."
+  },
+  {
+    "id": "svc-013",
+    "title": "Home Office Organizer",
+    "category": "Home Services",
+    "price": 110,
+    "rating": 4.5,
+    "reviews": 51,
+    "duration": "2 hrs",
+    "location": "On-site",
+    "availability": "Mon-Fri",
+    "images": [
+      "https://images.unsplash.com/photo-1487014679447-9f8336841d58?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Desk reset", "Cable management", "Storage plan"],
+    "includes": ["Labeling kit", "Organization map", "Cleanup checklist"],
+    "description":
+      "Declutter your workspace and create a productivity-friendly setup."
+  },
+  {
+    "id": "svc-014",
+    "title": "Pet Grooming Deluxe",
+    "category": "Home Services",
+    "price": 90,
+    "rating": 4.6,
+    "reviews": 44,
+    "duration": "75 mins",
+    "location": "Mobile Service",
+    "availability": "Tue-Sun",
+    "images": [
+      "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Gentle handling", "De-shedding", "Nail trim"],
+    "includes": ["Bath + blow dry", "Coat conditioning", "Post-care tips"],
+    "description":
+      "Mobile grooming that keeps pets calm, clean, and happy."
+  },
+  {
+    "id": "svc-015",
+    "title": "UI/UX Audit Session",
+    "category": "Tech Support",
+    "price": 190,
+    "rating": 4.8,
+    "reviews": 22,
+    "duration": "60 mins",
+    "location": "Virtual",
+    "availability": "Mon-Thu",
+    "images": [
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Heuristic review", "Usability insights", "Quick wins"],
+    "includes": ["Audit report", "Priority fixes", "Follow-up notes"],
+    "description":
+      "Get fast, actionable feedback on product UX with an expert review session."
+  },
+  {
+    "id": "svc-016",
+    "title": "Photo Editing Retouch",
+    "category": "Creative",
+    "price": 70,
+    "rating": 4.4,
+    "reviews": 35,
+    "duration": "45 mins",
+    "location": "Virtual",
+    "availability": "Daily",
+    "images": [
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Color grading", "Skin cleanup", "Export presets"],
+    "includes": ["Before/after", "Preset pack", "Delivery link"],
+    "description":
+      "Polish your images with professional retouching and color grading."
+  },
+  {
+    "id": "svc-017",
+    "title": "Culinary Coaching",
+    "category": "Lessons",
+    "price": 85,
+    "rating": 4.7,
+    "reviews": 40,
+    "duration": "70 mins",
+    "location": "Home Kitchen",
+    "availability": "Fri-Sun",
+    "images": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Meal prep", "Knife skills", "Flavor pairing"],
+    "includes": ["Recipe pack", "Shopping list", "Plating tips"],
+    "description":
+      "A hands-on cooking session that builds practical kitchen confidence."
+  },
+  {
+    "id": "svc-018",
+    "title": "Mindfulness Coaching",
+    "category": "Wellness",
+    "price": 65,
+    "rating": 4.5,
+    "reviews": 29,
+    "duration": "50 mins",
+    "location": "Virtual",
+    "availability": "Mon-Fri",
+    "images": [
+      "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=80"
+    ],
+    "highlights": ["Guided practice", "Stress reset", "Daily routine"],
+    "includes": ["Meditation audio", "Habit tracker", "Reflection prompts"],
+    "description":
+      "Build calm, focus, and clarity with a tailored mindfulness routine."
+  }
+]

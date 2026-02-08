@@ -1,0 +1,44 @@
+@import "./styles/globals.css";
+@import "tailwindcss";
+
+:root {
+  color-scheme: light dark;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  @apply bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100;
+}
+
+* {
+  @apply border-slate-200 dark:border-slate-800;
+}
+
+.container {
+  @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Theme customization */
+@theme {
+  --color-brand-50: #eef6ff;
+  --color-brand-100: #d7e7ff;
+  --color-brand-200: #b6d3ff;
+  --color-brand-300: #8eb7ff;
+  --color-brand-400: #5f90ff;
+  --color-brand-500: #3f6bff;
+  --color-brand-600: #2d4fee;
+  --color-brand-700: #263ccc;
+  --color-brand-800: #2436a4;
+  --color-brand-900: #213080;
+}
+
